@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SO-101 model, fetched from TheRobotStudio/SO-ARM100 (Simulation/SO101)
+third_party/
+
+# Training output
+logs/
+models/
+videos/
