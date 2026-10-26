@@ -7,6 +7,10 @@ __pycache__/
 third_party/
 
 # Training output
+*.zip
 logs/
 models/
 videos/
+
+# Scratch
+impl_practice.py
